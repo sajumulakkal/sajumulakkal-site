@@ -1126,3 +1126,6 @@ section {
         content: " "; /* 1 */
         display: table; /* 2 */
     }
+    .table-row{
+    cursor:pointer;
+    }
