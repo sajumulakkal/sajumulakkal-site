@@ -452,7 +452,15 @@ Decentralized Finance (DeFi) Opportunities and Risks</td></tr>
 	    These Sites are not commerical purpose , only for understanding the concepts - Thanks to EOSIO for building blockchain platform and allowing us to use the platform..</h2>
 
 
+        <div>
+	    <div class="proj-box-format">
+	        <iframe id="scaled-frame"  src="https://slabs-travel-site.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+	    </div>
 
+	   <div class="proj-box-format">
+		   	<a href="https://slabs-travel-site.netlify.app/" target="_blank">Click Me Here for "Clear View Escapes", Website was build using HTML and CSS</a>
+	    </div>
+       </div>
 
 
 	    <div class="proj-box-format">
@@ -500,6 +508,12 @@ Decentralized Finance (DeFi) Opportunities and Risks</td></tr>
 
 	  	</div>
 
+	  	<div class="proj-box-format">
+	      <iframe src="https://my-kitchen-recipes.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
+		</div>
+		<div class="proj-box-format">
+		<a href="https://my-kitchen-recipes.netlify.app/" target="_blank">Click Here for "My Kitchen Recipes", Website builded wih Python Flask</a>
+	  	</div>
  	      <div class="proj-box-format">
 	      <iframe src="https://sajumulakkal-3d-apps.netlify.app/" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen align="middle" seamless></iframe>
 		</div>
